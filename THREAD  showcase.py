@@ -122,4 +122,6 @@ def process_frame_with_rgb_contours(frame):
     contour_img = rgb_frame.copy()
     cv2.drawContours(contour_img, filtered_contours, -1, (0, 255, 0), 2)  # Green for outer contours
 
+ ⚠️ Note
+This is a simplified showcase. Full project code and data remain private.
   
