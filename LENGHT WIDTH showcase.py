@@ -105,4 +105,6 @@ def process_frame(frame, min_contour_area=500, debug=False, known_object_distanc
         if len(approx) >= 6 or (0.7 < circularity < 1.0):  # Hexagon or near-circular
             filtered_contours.append(cnt)
 
+ ⚠️ Note
+This is a simplified showcase. Full project code and data remain private.
    
