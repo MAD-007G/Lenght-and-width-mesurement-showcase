@@ -1,4 +1,4 @@
-# IDS Camera Image Processing – Training Project
+# IDS Camera Image Processing 
 
 This repository contains code that I personally wrote.  
 It is my own work and is shared here as part of my learning portfolio.
